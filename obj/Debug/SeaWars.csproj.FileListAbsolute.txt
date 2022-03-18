@@ -1,0 +1,10 @@
+C:\Users\denis\Desktop\sss\why\bin\Debug\SeaWars.exe.config
+C:\Users\denis\Desktop\sss\why\bin\Debug\SeaWars.exe
+C:\Users\denis\Desktop\sss\why\bin\Debug\SeaWars.pdb
+C:\Users\denis\Desktop\sss\why\obj\Debug\SeaWars.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\sss\why\obj\Debug\SeaWars.Form1.resources
+C:\Users\denis\Desktop\sss\why\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\denis\Desktop\sss\why\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\sss\why\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\sss\why\obj\Debug\SeaWars.exe
+C:\Users\denis\Desktop\sss\why\obj\Debug\SeaWars.pdb
